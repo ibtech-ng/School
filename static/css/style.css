@@ -1,0 +1,65 @@
+
+.imag{
+       background-image: url(../images/landing-img.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+       height: 80vh;
+}
+.image-d{
+       background-image: url(../images/school-min-.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+       height: 80vh;
+}
+.bbg-img{
+       background-image: url(../images/bg-education.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-position: center;       
+       
+}
+.img-bb{
+       background-image: url(../images/bg-17.png);
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-position: center;
+       height: 80vh;       
+
+}
+.img-bbg{
+       background-image: url(../images/bg-18.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-position: center;
+       height: 80vh;       
+
+}
+.image-1{
+       margin-top: 20px;
+       width: 450px;
+       height: 350px;
+       background-color: white;
+       border: 3px solid wheat;
+       border-radius: 8px;
+}
+.image-2{
+
+       margin-top: 20px;
+       width: 450px;
+       height: 350px;
+       background-color: white;
+       border: 3px solid wheat;
+       border-radius: 8px;
+}
+.image-3{
+       margin-top: 20px;
+       width: 450px;
+       height: 350px;
+       background-color: white;
+       border: 3px solid wheat;
+       border-radius: 8px;
+
+}
+.nav-link:hover{
+       color: red  !important;
+}
